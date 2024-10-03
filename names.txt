@@ -1,1 +1,3 @@
 boss,liu2496,Liu,Yanqi
+employee,NetID,LastName,FirstName
+employee,jwu724,Wu,Jiaqi
